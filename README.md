@@ -1,2 +1,2 @@
-# owner
-This is my first repository.
+# student Information
+This is my first Git repository.
